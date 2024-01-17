@@ -1,0 +1,12 @@
+name: JumpRandomizer
+version: '1.0'
+main: me.leandecks.jumprandomizer.JumpRandomizer
+api-version: '1.20'
+authors: [Leandecks]
+description: Random mob spawns every time you jump
+website: https://leandecks.github.io/
+
+commands:
+  jumprandomizer:
+    description: "Random mob spawns every time you jump"
+    usage: /<command>
