@@ -1,7 +1,7 @@
 ## Random mob on jump plugin for Spigot
 
 This is a very simple Spigot plugin for Minecraft
-that spawns a randomy entity when a player jumps.
+that spawns a random entity when a player jumps.
 
 Get the newest version [here](https://github.com/Leandecks/jump-randomizer/releases/).
 
